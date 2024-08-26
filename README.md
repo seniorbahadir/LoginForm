@@ -1,20 +1,21 @@
-# Web Login Projesi
+# Web Login Project
 
-Bu proje, kullanıcıların giriş yapabileceği basit bir web tabanlı login sistemi sağlamaktadır. Proje .NET 8 ve SQL Server kullanılarak geliştirilmiştir.
+This project provides a simple web-based login system that allows users to log in. The project is developed using .NET 8 and SQL Server.
 
-## Özellikler
+## Features
 
-- Kullanıcı giriş yapma
 
-## Gereksinimler
+- User login
+
+## Requirements
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Postman](https://www.postman.com/) (isteğe bağlı, API testleri için)
+- [Postman](https://www.postman.com/) (optional, for API testing)
 
-## Kurulum
+## Setup
 
-1. Bu projeyi yerel makinenize klonlayın:
+1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/kullaniciadi/web-login-projesi.git
-   cd web-login-projesi
+   git clone https://github.com/yourusername/web-login-project.git
+   cd web-login-project
